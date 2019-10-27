@@ -1,37 +1,216 @@
-body{
-	    background: url(Dubai.jpg);
-	        background-size: cover;
-		    font-family: Arial, Helvetica, sans-serif;
-		        color: white;
-		}
-		ul{
-			margin: 0px;
-			padding: 0px;
-			list-style: none;
-		}
-		ul li{
-			float: left;
-			width: 200px;
-			height: 40px;
-			background-color: grey;
-			opacity: .8 ;
-			line-height: 40px;
-			text-align: center;
-			font-size: 20px;
-			margin-right: 2px;
-			}
-		ul li a{
-			text-decoration: none;
-			color: white;
-			display: block;
-			}
-		ul li a:hover{
-			background-color: green;
-		}
-		ul li ul li{
-			display: none;
-		}
-		ul li:hover ul li{
-			display: block;
-		}
+
+.col-sm-8{
+    background-color: black;
+    padding: 10px;
+    color: white;
+    /*border: 1px solid white;*/
+}
+.col-sm-4{
+    background-color: black;
+    color: white;
+    /*border: 1px solid white;*/
+    padding: 10px;
+}
+.col-sm-3{
+    background-color: black;
+    color: white;
+    /*border: 1px solid white;*/
+    padding: 10px;
+}
+
+.col-sm-12{
+    background-color: black;
+    padding: 10px;
+    color: white;
+    /*border: 1px solid white;*/
+    text-decoration: none;
+}
+.col-sm-6{
+    background-color: black;
+    padding: 10px;
+    color: white;
+    /*border: 1px solid white;*/
+}
+.col-lg-8{
+    background-color: black;
+    padding: 10px;
+    color: white;
+    /*border: 1px solid white;*/
+}
+.col-lg-4{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+}
+.col-lg-3{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+}
+
+.col-lg-12{
+    background-color: black;
+    padding: 10px;
+    color: white;
+    border: 1px solid white;
+    text-decoration: none;
+}
+.col-lg-6{
+    background-color: black;
+    padding: 10px;
+    color: white;
+    border: 1px solid white;
+}
+ul li{
+    display: inline;
+    padding: 30px;
+}
+
+i{
+    color: white;
+    
+}
+.box1 a{
+    color: white;
+}
+.box1 a:hover{
+    color: yellow;
+    text-decoration: none;
+}
+
+.box2{
+    height: 400px;
+    background: url(original_homepage_loop_desktop.mp4);
+    background-size: 1200px 400px;
+}
+.box3{
+    height: 400px;
+    background-size: 800px 400px;
+    background: url("monterey.jpg");
+}
+.box4{
+    height: 400px;
+    background: url("Dubai.jpg");
+    background-size: 387px 400px;;
+}
+
+.box5{
+    height: 57px;
+    text-align: center;
+}
+.box5 p{
+    color: yellow;
+    text-align: left;
+    font-size: 10px;
+}
+.box5 a i{
+    color: yellow;
+    text-decoration: none;
+}
+.box5 a i:hover{
+    color: white;
+}
+
+.box22{
+    height: 200px;
+    font-size: 100px;
+    padding-top: 50px;
+    color: black;
+    background-color: white;
+}
+.box23{
+height: 350px;
+color: black;
+background-color: white;
+}
+.box24{
+    height: 350px;
+    color: black;
+    background-color: white;
+}
+.box25{
+    height: 350px;
+    color: black;
+    background-color: white;
+}
+.box26{
+    height: 500px;
+    background: url(snow.jpg);
+    background-size: 1170px 500px;
+}
+.box27{
+    text-align: center;
+}
+.box27 a{
+    padding: 30px;
+}
+.box35{
+    height: 870PX;
+    text-align: center
+}
+.box35 h1{
+    padding: 50px;
+}
+.box36{
+    height: 870PX;
+}
+.box37{
+    height: 600PX;
+    background: url(bird.jpg);
+    background-size: 1169px 600px;
+  
+}
+.box377{
+    background-color: white;
+    height: 100px;
+    color:black;
+  
+
+}
+.box38{
+    height: 600PX;
+    background: url(glacier.jpg);
+    background-size: 1169px 600px;
+   
+}
+.box388{
+    background-color: white;
+    height: 100px;
+    color:black;
+    
+}
+.box39{
+    height: 600PX;
+    background: url(fish.jpg);
+    background-size: 1169px 600px;
+   
+}
+.box399{
+    background-color: white;
+    height: 100px;
+    color:black;
+    
+}
+h3{
+    text-decoration: underline;
+    padding-left: 50px;
+}
+h4{
+    padding-left: 50px;
+}
+.container{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+  
+
+
+
+
 
