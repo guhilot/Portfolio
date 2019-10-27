@@ -207,6 +207,33 @@ h4{
     margin-right: auto;
     margin-left: auto;
 }
+@media screen and (max-width:1200px){
+    .box4{
+        background-size: 320px 400px;
+    }
+}
+@media screen and (max-width:992px){
+    .box4{
+        background-size: 250px 400px;
+    }
+}
+@media screen and (max-width:768px){
+    .box1 ul li{
+        color: red;
+        padding-left: 9px;
+        padding-right: 9px;
+        
+    }
+    .box1 i{
+        color: red;
+        padding-left: 9px;
+        padding-right: 9px;
+    }
+    .box27 ul li{
+        padding-left: 9px;
+        padding-right: 9px;
+    }
+}
 
   
 
