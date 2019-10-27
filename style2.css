@@ -1,0 +1,101 @@
+body{
+    background: linear-gradient(-45deg, pink, rgb(211, 223, 226));
+}
+form{
+    width: 100%;
+    text-align: center;
+}
+form ul li{
+    padding: 20px 20px;
+    display: inline;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: white;
+}
+p{
+    
+    font-size: 22px;
+}
+form ul li:hover{
+    color: black;
+}
+h1{
+    text-align: center;
+    color: wheat;
+    text-shadow: 2px 2px 0px rgba(0,0,0,0.2);
+}
+h1{
+    color:Black;
+    padding-top: 100px;
+    text-align: center;
+}
+#Education h3 img{
+    border-radius: 0 30% 0 30%;
+}
+
+h3{
+    display: block;
+    margin: 10;
+    background: linear-gradient(90deg, limegreen , rgb(199, 159, 26));
+    border-radius: 0 60% 0% 0%;
+    box-shadow: 5px 5px grey;
+}
+
+h3:hover{
+background: white;
+}
+
+table ,tr ,td{
+    padding: 25px;
+    text-align: center;
+    border: 2px solid black; 
+}
+table{
+    text-align: center;
+    box-shadow: inset 0 0 15px black;
+    background-color: rgba(82, 129, 123, 0.2);
+}
+p img{
+    border-radius: 60% 60% 60% 60%;
+}
+
+p img:hover{
+    box-shadow: 2px 2px 2px 2px black;
+}
+
+#Employment h4 img{
+    border-radius: 40% 40% 40% 40%;
+}
+
+#end p{
+    text-align: center;
+    font-size: 15px;
+}
+#Contact{
+    text-align: center;
+}
+#Home img{
+    border-radius: 10% 10% 10% 10%;
+}
+.image{
+    float: left;
+    margin: 0 10px 0 0;
+}
+img{
+    float: left;
+    margin: 0 10px 0 0;
+}
+.wrapper .media ul li{
+    display: inline;
+    padding: 0 60px 0 60px;
+}
+/*.wrapper{
+    text-align: center;  
+}*/
+#end p{
+    text-align: center;
+}
