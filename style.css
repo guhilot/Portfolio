@@ -202,10 +202,33 @@ h4{
 }
 .container{
     width: 100%;
+    border: 1px solid white;
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
+}
+.modal-content{
+    color: black;
+}
+
+.modal-content h3{
+    text-decoration: none;
+}
+
+.modal-content input{
+    
+    text-align: center;
+    display: inline-block;
+    float: none;
+}
+
+.modal-body{
+    
+        text-align: center;
+        display: inline-block;
+        float: none;
+
 }
 @media screen and (max-width:1200px){
     .box4{
@@ -222,7 +245,7 @@ h4{
         color: red;
         padding-left: 9px;
         padding-right: 9px;
-        
+
     }
     .box1 i{
         color: red;
@@ -234,10 +257,3 @@ h4{
         padding-right: 9px;
     }
 }
-
-  
-
-
-
-
-
