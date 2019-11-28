@@ -82,7 +82,7 @@ i{
 
 .box2{
     height: 400px;
-    background: url("original_homepage_loop_desktop.mp4");
+    background: url("IMG_6569.MOV");
     background-size: 1200px 400px;
 }
 .box3{
@@ -138,7 +138,7 @@ background-color: white;
 .box26{
     height: 500px;
     background: url(snow.jpg);
-    background-size: 1170px 500px;
+    background-size: cover;
 }
 .box27{
     text-align: center;
